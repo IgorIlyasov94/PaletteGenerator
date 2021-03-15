@@ -1,0 +1,7 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/PaletteGenerator/PaletteGenerator.vcxproj.user
+/PaletteGenerator/.vs/PaletteGenerator/v16
+/.vs
